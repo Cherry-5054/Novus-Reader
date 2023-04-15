@@ -1,0 +1,107 @@
+nav{
+  border-radius: 10px;
+  padding: 10px 8px !important;
+  margin: 10px 0;
+  border: 0;
+}
+.this1{
+  font-family: "Comic Neue";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h2{
+  font-weight: bolder !important;
+}
+.this3{
+  font-family: "Comic Neue";
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bolder;
+}
+
+em{
+  font-size: 1.0rem;
+  font-weight: bolder;
+}
+#title{
+  background-color: lightyellow;
+}
+#features{
+  padding: 30px;
+}
+.container-fluid{
+  padding: 20px;
+}
+
+
+
+.img1{
+  padding-top: 5px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 80%;
+}
+.head{
+  font-family: "Comic Neue";
+  font-size: 1.5rem;
+  color: lightyellow;
+}
+.neck{
+  font-size: 2.5rem;
+  color: yellow;
+  padding-top: 40px;
+  text-align: center;
+}
+.neck1{
+  margin: 5% 3% 5% 0;
+}
+.leg{
+  text-align: center;
+  padding: 5% 15%;
+}
+#testimonials{
+  background-color: #FFC107;
+  text-align: center;
+  color: lightyellow;
+}
+#press{
+  background-color: #FFC107;
+  text-align: center;
+  padding-bottom: 5%;
+}
+#pricing{
+  padding:40px;
+  text-align:center;
+}
+#cta{
+  color: #FFC107;
+  background-color: lightyellow;
+  text-align: center;
+  padding: 40px;
+}
+#footer{
+  padding: 40px;
+  text-align: center;
+}
+.social-icon{
+  margin: 20px 10px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.testimonial-image{
+  border-radius: 10%;
+  width: 30%;
+  margin: 20px;
+}
+.press-logo{
+  width:15%;
+  margin: 10px 10px 5px;
+}
+
+.card{
+  margin: 20px;
+}
